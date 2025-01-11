@@ -1,4 +1,4 @@
-import * as THREE from './js/three.module.js';
+import * as THREE from './js/three.min.js';
 import { GLTFLoader } from './js/addons/GLTFLoader.js';
 import ConstructorPoke from './constructor.js';
 
